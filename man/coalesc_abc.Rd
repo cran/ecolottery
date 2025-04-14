@@ -85,12 +85,12 @@
   }
   \item{parallel}{
    boolean. If \code{parallel = TRUE}, the function will perform parallel
-   processing using the \code{\link[=parLapply]{parLapply()}} function of
+   processing using the \code{parLapply()} function of
    package \code{parallel}.
   }
   \item{tol}{
     the tolerance value used in ABC estimation (see help in
-    \code{\link[=abc]{abc()}} function of package \code{abc} for further
+    \code{abc()} function of package \code{abc} for further
     information).
   }
   \item{pkg}{
@@ -98,7 +98,7 @@
   }
   \item{method}{
     the method to be used in ABC estimation (see help on
-    \code{\link[=abc]{abc()}} function  of package \code{abc} for further
+    \code{abc()} function  of package \code{abc} for further
     information).
   }
   \item{J}{
@@ -139,8 +139,8 @@ and is not intended to be used directly.
   }
 }
 \seealso{
- \code{\link[=abc]{abc()}} in \code{abc} package,
- \code{\link[=parLapply]{parLapply()}} in \code{parallel} package.
+ \code{abc()} in \code{abc} package,
+ \code{parLapply()} in \code{parallel} package.
 }
 \references{
   Jabot, F., and J. Chave. 2009. Inferring the parameters of the neutral theory

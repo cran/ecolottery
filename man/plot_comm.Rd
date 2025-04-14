@@ -43,7 +43,7 @@ plot_comm(x, type = "trait", seltrait = 1, main = NULL)
   To be used on the output of \code{coalesc()} or \code{forward()} functions.
 }
 \value{
-Return two stacked \code{\link[=ggplot2-package]{ggplot2}} density plots if
+Return two stacked \code{ggplot2} density plots if
 \code{type = "trait"} and a biplot if \code{type = "abund"}.
 }
 \author{
