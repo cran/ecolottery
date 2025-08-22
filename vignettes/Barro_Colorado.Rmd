@@ -9,7 +9,7 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
-This vignette corresponds to the latest version of the Appendix 3 of F.Munoz et al. paper.
+This vignette corresponds to the latest version of the Appendix 3 of F.Munoz et al. (2018) paper.
 
 
 # Appendix 3: ABC estimation of neutral parameters in Barro Colorado Island rainforest, using coalescent-based simulation 

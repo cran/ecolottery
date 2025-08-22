@@ -4,9 +4,11 @@ bibentry(
    title = "ecolottery: simulating and assessing neutral and niche-based community dynamics in R",
    journal = "Methods in Ecology and Evolution",
    year = 2018,
+   volume = 9,
+   issue = 3,
+   pages = 693-703,
    doi = "10.1111/2041-210X.12918",
-   URL = " doi:10.1111/2041-210X.12918", 
-   eprint = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.12918", 
+   eprint = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.12918",
    textVersion = "MUNOZ, F., M. GRENIE, P. DENELLE, et al. (2018). ecolottery: simulating and assessing community assembly with environmental filtering and neutral dynamics in R. Methods in Ecology and Evolution, 9(3):693-703.",
    header = "To cite the ecolottery package:",
    footer = "This free open-source software implements academic

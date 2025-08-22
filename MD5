@@ -1,4 +1,4 @@
-08b0954a1291825faab7c67c63f7126f *DESCRIPTION
+e5a7ff7dd4be5c22b98f7e6f0bd03cb1 *DESCRIPTION
 235bf3cd89f7f0ab7cdc45d2f1dc2edd *NAMESPACE
 e6d2bf0963c79ca125b15b11f5d05649 *R/abund.R
 5c9438dba94769e53fecf8c238b9fc6e *R/coalesc.R
@@ -7,15 +7,15 @@ e6d2bf0963c79ca125b15b11f5d05649 *R/abund.R
 8a450b3f5510c5d0eb374f937f4d7293 *R/get_number_of_gens.R
 17f1de16963dbad58dcf53dfc40ee494 *R/plot_comm.R
 673d40589a7c4b6ff4854f388e7cf317 *R/tcor.R
-e446924b810a808e4055581e2802e75e *build/partial.rdb
-9f6f97b42dd53b7889a4870f8bf55354 *build/vignette.rds
-bb7b825c2f19083e3839504d236bb1d0 *inst/CITATION
+15d5dad83987287e9883b247d65ea997 *build/partial.rdb
+b8a9b05ea1935cdbae8bda656aa1ea63 *build/vignette.rds
+b74dfdc321d641652739e4ffc8d0dcb1 *inst/CITATION
 bc546e82a1d1606baa5a79408a087c70 *inst/doc/Barro_Colorado.R
-2f981ea42f048d24aef29a62c665a926 *inst/doc/Barro_Colorado.Rmd
-09a408890a62c68e3efccf9e24981ee6 *inst/doc/Barro_Colorado.html
+94a4d0e8aed103f3a7b5ffbbf3617974 *inst/doc/Barro_Colorado.Rmd
+823f832375cc5640c83e244d21b2879f *inst/doc/Barro_Colorado.html
 93a8a02d0380d5c57e73370de203ed57 *inst/doc/coalesc_vignette.R
 f056e72e4697e45ac186faf61efe8cdb *inst/doc/coalesc_vignette.Rmd
-67aed4872244d1e2c2652ab879c1f151 *inst/doc/coalesc_vignette.html
+6240e71f5cbe5d8473f977aef4690115 *inst/doc/coalesc_vignette.html
 cf23c73d0f3021517435a2868f3ae7b5 *man/abund.Rd
 0e966e85e487bc064df0dd9ea57dc7a3 *man/coalesc.Rd
 b9ee3e99321c4cbc12ca4e02d449f965 *man/coalesc_abc.Rd
@@ -28,5 +28,5 @@ b9ee3e99321c4cbc12ca4e02d449f965 *man/coalesc_abc.Rd
 a5142bfd75c0278b71192337b6c29660 *tests/testthat/test-coalesc.R
 b58ef5ffc01fa9b60a3b5befddcd6541 *tests/testthat/test-forward.R
 1bc540e9a6ca9ac5671206872b13787e *tests/testthat/test-tcor.R
-2f981ea42f048d24aef29a62c665a926 *vignettes/Barro_Colorado.Rmd
+94a4d0e8aed103f3a7b5ffbbf3617974 *vignettes/Barro_Colorado.Rmd
 f056e72e4697e45ac186faf61efe8cdb *vignettes/coalesc_vignette.Rmd
